@@ -1,0 +1,6 @@
+ label : 0 number of sample:116 average: 9.40517
+ label : 1 number of sample:106 average: 7.5283
+ label : 2 number of sample:53 average: 5.0566
+ label : 3 number of sample:22 average: 10
+ label : 4 number of sample:166 average: 8.00602
+ label : 5 number of sample:36 average: 7.33333

@@ -1,0 +1,1 @@
+ label : 0 number of sample:116 average: 19.3534 spent time: 203 milli second
